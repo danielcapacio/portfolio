@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Daniel Capacio">
+
+	<title>500 Internal Server Error</title>
+    <link rel='icon' type='image/x-icon' href='../assets/favicon/favicon.ico'>
+
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat%7CRaleway">
+	<link rel="stylesheet" href="../assets/styles/style.css">
+</head>
+<body>
+	<section id="home" class="home">
+		<div class="background-image"></div>
+		<h1>500 Internal Server Error</h1>
+        <h3 class="error-message">The page cannot be displayed.<br/>Return to <a class="home-redirect" href="/">home page</a></h3>
+	</section>
+</body>
+</html>

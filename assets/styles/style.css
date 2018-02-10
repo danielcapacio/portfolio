@@ -499,3 +499,22 @@ footer > div.footer-social-icons > a:hover {
 footer > p {
 	color: white;
 }
+
+
+
+/*----------------
+	Error Pages
+----------------*/
+
+.home > h3.error-message {
+	line-height: 2;
+}
+
+.home > h3 > a.home-redirect {
+	color: #fff;
+	padding: 0;
+	text-decoration: none;
+}
+.home > h3 > a.home-redirect:hover {
+	text-decoration: underline;
+}
